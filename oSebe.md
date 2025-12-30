@@ -6,11 +6,11 @@
 
 
 
-\###Обычная инфрмация.
+\###Обычная информация.
 
 
 
-!\[Логотип GitHub](https://sun9-71.userapi.com/c5027/u89239110/-6/w\_d8b3290d.jpg)
+!\[Логотип GitHub](https://sun9-88.userapi.com/s/v1/ig2/Ph7Qt1Dtxasrz1B6lgRBg5c2Jr96tsX2PoRLblel4Ij4Y1u6B91hYSrBMvv5-nsQeI3aBLZHcPdbMYY--KpqD3Dd.jpg?quality=95\&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920\&from=bu\&cs=2560x0)
 
 
 
@@ -27,6 +27,4 @@
 
 
 Необычная информация :: люблю компьютер и котов, овцов, сложности.
-
-
 
