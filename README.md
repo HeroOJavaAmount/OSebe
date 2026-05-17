@@ -86,7 +86,8 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 🎮 Game Development
-![Java LibGDX](https://img.shields.io/badge/LibGDX-FF6600?style=for-the-badge&logo=libgdx&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-FF6600?style=for-the-badge&logo=libgdx&logoColor=white)
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
