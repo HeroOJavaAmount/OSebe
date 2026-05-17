@@ -48,7 +48,7 @@
 *   **Email:** aleksandr.osha@yahoo.com
 *   **LinkedIn:** [Ссылка на профиль]
 ```
-![Java](https://badgen.net/badge/Java/21/orange/scale=3)
+![Java](https://badgen.net/badge/Java/21/orange/scale=2)
 ![Spring Boot](https://badgen.net/badge/Spring%20Boot/3.4.5/green)
 ![PostgreSQL](https://badgen.net/badge/PostgreSQL/17/blue)
 ![Docker](https://badgen.net/badge/Docker/24.0.7/blue)
