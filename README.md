@@ -50,7 +50,7 @@
 ```
 ![Java](https://badgen.net/badge/☕/Java/FF9A00)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=red&scale=2)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&scale=2)
 
 
 
