@@ -30,9 +30,9 @@
 ## 📂 Избранные проекты
 Вот несколько проектов, которые лучше всего показывают мой уровень:
 Сервис перевода денег - Money_Transfer_Service
-1   **[(https://github.com/HeroOJavaAmount/HW_Diplom.git)]
+* 1   **[(https://github.com/HeroOJavaAmount/HW_Diplom.git)]
    **[ (https://github.com/HeroOJavaAmount/Money_Transfer_Service_MTSS-Development.git )]
-2 **   https://github.com/HeroOJavaAmount/NetWorkDiplom.git 
+* 2 **   https://github.com/HeroOJavaAmount/NetWorkDiplom.git 
     *   Краткое описание:
 ```
 *   **[Название проекта 2 ]**
