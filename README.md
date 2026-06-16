@@ -29,9 +29,8 @@
 <p>### 📈 Немного о рабочем опыте</p> 
 <p>## 📂 Избранные проекты</p>
 Вот несколько проектов, которые лучше всего показывают мой уровень:
-* 1 Сервис перевода денег: (https://gitverse.ru/on-line-javalex/Diplom.git)
-* 2 NetWork - Сеть:  https://github.com/HeroOJavaAmount/NetWorkDiplom.git 
-
+<p>* 1 Сервис перевода денег: (https://gitverse.ru/on-line-javalex/Diplom.git)</p>
+<p>* 2 NetWork - Сеть:  https://github.com/HeroOJavaAmount/NetWorkDiplom.git </p>
 ```
 *   **Компания [Название]**, [Должность] ([Год — Год])
   
