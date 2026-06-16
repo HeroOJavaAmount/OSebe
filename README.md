@@ -29,10 +29,12 @@
 
 ## 📂 Избранные проекты
 Вот несколько проектов, которые лучше всего показывают мой уровень:
+~~~
 Сервис перевода денег - Money_Transfer_Service
 * 1  (https://gitverse.ru/on-line-javalex/Diplom.git)
 * 2 **   https://github.com/HeroOJavaAmount/NetWorkDiplom.git 
     *   Краткое описание:
+~~~
 ```
 *   **[Название проекта 2 ]**
     *   Краткое описание:
