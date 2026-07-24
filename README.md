@@ -1,52 +1,87 @@
-# 👋 Привет, меня зовут [Александр]
+## 👋 Привет, меня зовут Александр.
 
-## 🎓 Технологический стек
+### 🛠️ Технологический стек
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-FF6600?style=for-the-badge&logo=libgdx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-## 🛠️ Технический стек.
-🌐
+### Технический стек
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![LibGDX](https://img.shields.io/badge/LibGDX-FF6600?style=for-the-badge&logo=libgdx&logoColor=white)
 <!--![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)-->
 
-# 🎓 Образование и сертификаты
+## 🎓 Образование и сертификаты
+###   Петровский колледж (Среднее-специальное) [2000-2003]
+###  Морская Академия Мурманского Государственного Технического Университета (Высшее-неоконченное) [2003-2005]
 
-##   Петровский колледж (Среднее-специальное) [2000-2003]
-##  Морская Академия Мурманского Государственного Технического Университета (Высшее-неоконченное) [2003-2005]
+Я —
+<span style="color: Red;">Java </span>- разработчик.
+<p><span style="color: #E67E22;">В разработки с 2025 года.</span></p>
+С опытом работы 0 лет.
+Превращаю сложные задачи в простые и эффективные решения. Люблю, когда код не только работает, но и приятно выглядит.
 
+Сейчас я в пассивном поиске новых проектов, где смогу применить свои навыки в **[Ключевая технология:  и создание высоконагруженных сервисов]**.
 
-Я — **[Java]** с опытом работы **[0]**.
-<p>В разработке с 2025г.</p>
-<p>Превращаю сложные задачи в простые и эффективные решения. Люблю, когда код не только работает, но и приятно выглядит.</p>
-<p>С завышенной самооценкой.</p>
-<p>### 📈 Немного о рабочем опыте</p> 
-<p>## 📂 Избранные проекты</p>
+## 📂 Избранные проекты
 Вот несколько проектов, которые лучше всего показывают мой уровень:
-<p>* 1 Сервис перевода денег: (https://gitverse.ru/on-line-javalex/Diplom.git)</p>
-<p>* 2 NetWork - Сеть:  https://github.com/HeroOJavaAmount/NetWorkDiplom.git </p>
 
-*   **Компания [Название]**, [Должность] ([Год — Год])
-  
-*   **Компания [Название]**, [Должность] ([Год — Год])
+1. Облачное Хранилише - Диплом - Итоговая Аттестация.
+~~~
+ https://gitverse.ru/on-line-javalex/DiplomasCloudData  
+ https://github.com/HeroOJavaAmount/DiplomCloudDataBackend.git
+~~~
 
+2. Сервис перевода денег - Диплом.
+~~~
+   https://github.com/HeroOJavaAmount/HW_Diplom.git
+   https://github.com/HeroOJavaAmount/Money_Transfer_Service_MTSS-Development.git 
+   https://gitverse.ru/on-line-javalex/Diplom
+~~~
+2. Сетевой чат - Диплом.
+```
+    https://github.com/HeroOJavaAmount/NetWorkDiplom.git
+```
+
+## 📈 Немного о рабочем опыте
+```
+
+```
 
 ## 📫 Как со мной связаться
 ```
-*   **Telegram:** @[ваш_ник]
-*   **Email:** aleksandr.osha@yahoo.com
-*   **LinkedIn:** [Ссылка на профиль]
+1 Telegram: @[ваш_ник]
+2 Email: aleksandr.osha@yahoo.com / on-line-sashka@mail.ru
+3 LinkedIn: [Ссылка на профиль]
 ```
+
+## 🛠️ Backend
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🎨 Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🐳 DevOps & Monitoring
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 🎮 Game Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -67,5 +102,3 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p> -->
-
-
