@@ -58,9 +58,8 @@
 
 ## 📫 Как со мной связаться
 ```
-1 Telegram: @[ваш_ник]
+1 
 2 Email: aleksandr.osha@yahoo.com / on-line-sashka@mail.ru
-3 LinkedIn: [Ссылка на профиль]
 ```
 
 ## 🛠️ Backend
